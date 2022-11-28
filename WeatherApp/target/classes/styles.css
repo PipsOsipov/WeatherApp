@@ -1,0 +1,34 @@
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.search-button{
+    -fx-background-color: #DA70D6;
+    -fx-background-radius: 50;
+}
+.layer{
+    -fx-background-radius: 20;
+
+}
+.closebutn{
+    -fx-background-color: #DA70D6;
+    -fx-background-radius: 50;
+}
+.settbutn{
+    -fx-background-color: #DA70D6;
+    -fx-background-radius: 50;
+}
+.tabpane{
+    -fx-background-color: #7B68EE;
+}
+.vbox{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 10;
+}
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.4), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
